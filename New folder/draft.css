@@ -1,0 +1,19 @@
+/*Navbar*/
+body {
+	font-family: "calibri", sans-serif;
+	line-height: 2;
+	color: black;
+	background-image: url("img/D.jpg");
+}
+
+h1 {
+	color: black;
+	text-align: center;
+	font-family: calibri;
+	font-size: 700%;
+}
+
+a {
+	font-family: calibri;
+	color: black;
+}
